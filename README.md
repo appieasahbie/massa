@@ -126,8 +126,7 @@ And run your massa-client (replace <password> with your saved password of client
  ### After that copy your wallet address and go to discord to fuacet your wallet
  
  
-
-     <img width="221" alt="Screenshot 2022-12-19 231117" src="https://user-images.githubusercontent.com/108979536/208536484-0c58d8d2-334c-460f-b7fa-ea9e3aa9fef8.png">
+ <img width="221" alt="Screenshot 2022-12-19 231117" src="https://user-images.githubusercontent.com/108979536/208536484-0c58d8d2-334c-460f-b7fa-ea9e3aa9fef8.png">
      
 
  ### Make sure that you recived the tokens to check run the command bellow
