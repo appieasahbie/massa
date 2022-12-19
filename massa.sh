@@ -26,7 +26,7 @@ reset=$(tput sgr0)
 
 clear;
 echo "*********************---*********************"
-echo "*******Altai - Massa Node Installation*******"
+echo "*******Appieasahbie | AkNodes - Massa Node Installation*******"
 echo "*********************---*********************"
 sleep 3
 
