@@ -154,17 +154,67 @@ And run your massa-client (replace <password> with your saved password of client
 <img width="552" alt="Screenshot 2022-12-19 231821" src="https://user-images.githubusercontent.com/108979536/208537603-cb42524e-13d9-4ff3-a65c-9982f1547cf2.png">
 
     
- ### After buying the rolls check with wallet info
+   ### After buying the rolls check with wallet info
  
      wallet_info
      
 <img width="532" alt="Screenshot 2022-12-19 231936" src="https://user-images.githubusercontent.com/108979536/208537791-fcc424ee-d915-49be-a1bc-f72c0d9c525c.png">
  
  
- ### Now wait 1 hour you will see Active rolls
+  ### Now wait 1 hour you will see Active rolls
  
- ### Now go to discord and register your wallet and ip address 
+  ### Now go to discord and register your wallet and ip address ( Write something in the testnet-rewards-registration channel of massa Discord and the bot will DM you instructions )
  
  
+ <img width="615" alt="Screenshot 2022-12-19 233105" src="https://user-images.githubusercontent.com/108979536/208539457-5d0363c7-5a59-4e9e-9050-3e96662fe63d.png">
+
+
+ <img width="779" alt="Screenshot 2022-12-19 233201" src="https://user-images.githubusercontent.com/108979536/208539546-5d8e8439-b73f-4d39-9bcf-0bf5b8c0f2ef.png">
+
+
+  ### copy this command from massabot (node_testnet_rewards_program_ownership_proof your_staking_address 1010687132634972171) 
     
      
+<img width="442" alt="Screenshot 2022-12-19 233243" src="https://user-images.githubusercontent.com/108979536/208539700-64f0257e-6870-4152-9659-2055a9527e58.png">
+
+
+   node_testnet_rewards_program_ownership_proof A1kcYMh3co4dgLNWRj5Z8aaUZxopjKro1Cib5BY2p4CohkfdBGn 1010687132634972171
+   
+   <img width="919" alt="Screenshot 2022-12-19 233623" src="https://user-images.githubusercontent.com/108979536/208540196-ad028552-9275-41bb-b0cb-cd015b401ad2.png">
+   
+   
+ ### copy this code and past on massabot
+ 
+      P12H1Ak9iaUJzj7A1i6XiB7KexYqErdv7WApLwvVV6c4iDhPX9VD/5EZLVjw4xB6TqKAPxD4up6wtgjjRQxWuE7Znf8kHnvAjbKQ3GQdv4n7yKAHJ3RdE7nzCcrTFstN8wGMih8JJaS67RZEdz/P12VpdPMs343b8xvp4D7tLwLJkSTTHPgNZKzvhrs7w5eqrCBeDGw/Uz2P56v3XrdepzDQDaGRmcgxjCQfuUA6vfKGEHq3vUK7HWtLPYSNGwEnV9Yiq4X2wP5CL4vwKmtd5sN75ktxgf8pPKLER
+      
+      
+      
+      
+ <img width="567" alt="Screenshot 2022-12-19 234012" src="https://user-images.githubusercontent.com/108979536/208540586-27ccba69-66cd-41b8-847b-97a6769ba299.png">
+
+Good
+
+### Now copy your ip address of your server and past on massabot
+
+
+<img width="566" alt="Screenshot 2022-12-19 234126" src="https://user-images.githubusercontent.com/108979536/208540785-d029fb42-ef34-41d4-baf1-7a038acd7f65.png">
+
+
+ ### To check the points on massabot type 
+ 
+     info
+     
+     
+<img width="544" alt="Screenshot 2022-12-19 234205" src="https://user-images.githubusercontent.com/108979536/208540905-5e62203a-92e8-4340-9b91-e7f71552c801.png">
+
+
+
+Done
+
+
+
+[buy me a cup of coffee](https://www.paypal.com/paypalme/AbdelAkridi?country.x=NL&locale.x=en_US)
+
+
+   
+   
