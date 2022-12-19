@@ -115,10 +115,56 @@ And run your massa-client (replace <password> with your saved password of client
 ### Afetr you see this add you node staking secret key  
 
 
-<img width="771" alt="Screenshot 2022-12-19 222344" src="https://user-images.githubusercontent.com/108979536/208527615-e4792a45-4bb5-4731-9cb1-e173b2fa1240.png">
+
+<img width="359" alt="Screenshot 2022-12-19 230959" src="https://user-images.githubusercontent.com/108979536/208536270-25518935-39be-4fe8-b526-021df389da2a.png">
+
+
+<img width="653" alt="Screenshot 2022-12-19 231453" src="https://user-images.githubusercontent.com/108979536/208537102-902888ee-297b-497d-96cf-04839c71b46f.png">
 
 
 
-     
+ ### After that copy your wallet address and go to discord to fuacet your wallet
+ 
  
 
+     <img width="221" alt="Screenshot 2022-12-19 231117" src="https://user-images.githubusercontent.com/108979536/208536484-0c58d8d2-334c-460f-b7fa-ea9e3aa9fef8.png">
+     
+
+ ### Make sure that you recived the tokens to check run the command bellow
+ 
+    wallet_info 
+ 
+ + You should see this in your balance , you will recive 500 test tokens
+ 
+    <img width="564" alt="Screenshot 2022-12-19 231719" src="https://user-images.githubusercontent.com/108979536/208537442-86da25bf-ecde-4413-b3ff-2e93c0fa8162.png">
+
+ 
+  ### Buy rolls ( copy your address , and make sure that your node is running after buying the rolls )
+  
+   + Like picture bellow
+   
+   
+   <img width="764" alt="Screenshot 2022-12-19 231602" src="https://user-images.githubusercontent.com/108979536/208537229-b18618fa-dbb7-4372-a2f8-07863c83f1b3.png">
+
+  
+  
+     buy_rolls A1kcYMh3co4dgLNWRj5Z8aaUZxopjKro1Cib5BY2p4CohkfdBGn 1 0 
+     
+     
+<img width="552" alt="Screenshot 2022-12-19 231821" src="https://user-images.githubusercontent.com/108979536/208537603-cb42524e-13d9-4ff3-a65c-9982f1547cf2.png">
+
+    
+ ### After buying the rolls check with wallet info
+ 
+     wallet_info
+     
+<img width="532" alt="Screenshot 2022-12-19 231936" src="https://user-images.githubusercontent.com/108979536/208537791-fcc424ee-d915-49be-a1bc-f72c0d9c525c.png">
+ 
+ 
+ ### Now wait 1 hour you will see Active rolls
+ 
+ ### Now go to discord and register your wallet and ip address 
+ 
+ 
+    
+     
