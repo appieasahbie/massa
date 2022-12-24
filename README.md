@@ -177,9 +177,9 @@ And run your massa-client (replace <password> with your saved password of client
 <img width="442" alt="Screenshot 2022-12-19 233243" src="https://user-images.githubusercontent.com/108979536/208539700-64f0257e-6870-4152-9659-2055a9527e58.png">
 
 
-   node_testnet_rewards_program_ownership_proof A1kcYMh3co4dgLNWRj5Z8aaUZxopjKro1Cib5BY2p4CohkfdBGn 1010687132634972171
+       node_testnet_rewards_program_ownership_proof A1kcYMh3co4dgLNWRj5Z8aaUZxopjKro1Cib5BY2p4CohkfdBGn 1010687132634972171
    
-   <img width="919" alt="Screenshot 2022-12-19 233623" src="https://user-images.githubusercontent.com/108979536/208540196-ad028552-9275-41bb-b0cb-cd015b401ad2.png">
+ <img width="919" alt="Screenshot 2022-12-19 233623" src="https://user-images.githubusercontent.com/108979536/208540196-ad028552-9275-41bb-b0cb-cd015b401ad2.png">
    
    
  ### copy this code and past on massabot
